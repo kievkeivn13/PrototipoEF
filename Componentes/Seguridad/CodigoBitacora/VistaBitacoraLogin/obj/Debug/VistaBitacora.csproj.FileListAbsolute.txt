@@ -1,0 +1,20 @@
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.AssemblyReference.cache
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CoreCompileInputs.cache
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.pdb
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Dapper.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.pdb
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\VistaBitacoraLogin.pdb
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Dapper.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\bin\Debug\Bitacora.pdb
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.AssemblyReference.cache
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CoreCompileInputs.cache
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacora.csproj.CopyComplete
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\VistaBitacoraLogin\obj\Debug\VistaBitacoraLogin.pdb

@@ -1,0 +1,35 @@
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaControladorMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaControladorMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.csproj.AssemblyReference.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.csproj.CoreCompileInputs.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaModeloMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaModeloMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaControladorMVentasCC\obj\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\bin\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\bin\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\bin\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\bin\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Controlador\obj\Debug\CapaControladorMVentasCC.csproj.CopyComplete
