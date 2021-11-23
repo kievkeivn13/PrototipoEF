@@ -52,12 +52,13 @@ namespace CapaVistaMVentasCC
             // txtEstatus
             // 
             this.txtEstatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtEstatus.Location = new System.Drawing.Point(318, 303);
+            this.txtEstatus.Location = new System.Drawing.Point(316, 303);
             this.txtEstatus.Name = "txtEstatus";
             this.txtEstatus.Size = new System.Drawing.Size(45, 26);
             this.txtEstatus.TabIndex = 120;
             this.txtEstatus.Tag = "Estatus";
             this.txtEstatus.Visible = false;
+            this.txtEstatus.TextChanged += new System.EventHandler(this.txtEstatus_TextChanged);
             // 
             // txtIdMarca
             // 

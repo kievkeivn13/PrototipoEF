@@ -18,7 +18,7 @@ namespace CapaVistaMVentasCC
 
             //TextBox[] alias = { txtID, txtCodigoMarca, txtNombre, txtFecha, txtDescripcion, txtStock, txtPrecio, txtEstatus};
             TextBox[] alias = navegador1.funAsignandoTexts(this);
-            navegador1.funAsignarAliasVista(alias, "cliente", "hotelSanCarlos");
+            navegador1.funAsignarAliasVista(alias, "producto", "examenfinal");
             navegador1.funAsignarSalidadVista(this);
             navegador1.funLlenarComboControl(cbxInventario, "inventario", "Pkid", "nombre", "estatus");
             navegador1.funLlenarComboControl(cbxLinea, "linea", "idLinea", "nombre", "estatus");

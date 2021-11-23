@@ -57,7 +57,7 @@ namespace CapaVistaMVentasCC
             this.txtEstatus.Size = new System.Drawing.Size(45, 26);
             this.txtEstatus.TabIndex = 104;
             this.txtEstatus.Tag = "Estatus";
-            this.txtEstatus.Visible = false;
+            this.txtEstatus.TextChanged += new System.EventHandler(this.txtEstatus_TextChanged);
             // 
             // txtDireccion
             // 
