@@ -19,7 +19,7 @@ namespace CapaVistaMVentasCC
             TextBox[] alias = navegador1.funAsignandoTexts(this);
             navegador1.funAsignarAliasVista(alias, "Bodega", "examenfinal");
             navegador1.funAsignarSalidadVista(this);
-            navegador1.funLlenarComboControl(cbxTipoBodega, "TipoIBodega", "Pkid", "Nombre", "Estatus");
+            navegador1.funLlenarComboControl(cbxTipoBodega, "TipoBodega", "Pkid", "Nombre", "Estatus");
 
             //inicio de elementos para dar de baja
             navegador1.campoEstado = "Estatus";
