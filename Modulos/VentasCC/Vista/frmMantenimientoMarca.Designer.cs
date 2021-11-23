@@ -112,6 +112,7 @@ namespace CapaVistaMVentasCC
             this.rbnHabilitado.TabStop = true;
             this.rbnHabilitado.Text = "Habilitado";
             this.rbnHabilitado.UseVisualStyleBackColor = false;
+            this.rbnHabilitado.CheckedChanged += new System.EventHandler(this.rbnActivo_CheckedChanged);
             // 
             // rbnInhabilitado
             // 
@@ -125,6 +126,7 @@ namespace CapaVistaMVentasCC
             this.rbnInhabilitado.TabStop = true;
             this.rbnInhabilitado.Text = "Inhabilitado";
             this.rbnInhabilitado.UseVisualStyleBackColor = false;
+            this.rbnInhabilitado.CheckedChanged += new System.EventHandler(this.rbnInactivo_CheckedChanged);
             // 
             // labelMoras
             // 
@@ -187,8 +189,6 @@ namespace CapaVistaMVentasCC
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::CapaVistaMVentasCC.Properties.Resources._90_Simple_Backgrounds_Edit_and_Download_Visual_Learning_Center;
             this.ClientSize = new System.Drawing.Size(1189, 392);
-            this.Controls.Add(this.navegador1);
-            this.Controls.Add(this.dtgMarca);
             this.Controls.Add(this.txtEstatus);
             this.Controls.Add(this.txtDescripcion);
             this.Controls.Add(this.txtNombre);
@@ -196,6 +196,8 @@ namespace CapaVistaMVentasCC
             this.Controls.Add(this.rbnHabilitado);
             this.Controls.Add(this.rbnInhabilitado);
             this.Controls.Add(this.labelMoras);
+            this.Controls.Add(this.navegador1);
+            this.Controls.Add(this.dtgMarca);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.labelestadoinventario);
             this.Controls.Add(this.labelnombretinventario);

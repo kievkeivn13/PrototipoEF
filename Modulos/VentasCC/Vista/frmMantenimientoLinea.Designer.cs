@@ -66,7 +66,7 @@ namespace CapaVistaMVentasCC
             this.txtIdMarca.Name = "txtIdMarca";
             this.txtIdMarca.Size = new System.Drawing.Size(32, 26);
             this.txtIdMarca.TabIndex = 119;
-            this.txtIdMarca.Tag = "idmarca";
+            this.txtIdMarca.Tag = "idMarca";
             // 
             // txtDescripcion
             // 
@@ -75,7 +75,7 @@ namespace CapaVistaMVentasCC
             this.txtDescripcion.Name = "txtDescripcion";
             this.txtDescripcion.Size = new System.Drawing.Size(157, 26);
             this.txtDescripcion.TabIndex = 118;
-            this.txtDescripcion.Tag = "Descripcion";
+            this.txtDescripcion.Tag = "descripcion";
             // 
             // txtNombre
             // 
@@ -84,8 +84,7 @@ namespace CapaVistaMVentasCC
             this.txtNombre.Name = "txtNombre";
             this.txtNombre.Size = new System.Drawing.Size(157, 26);
             this.txtNombre.TabIndex = 117;
-            this.txtNombre.Tag = "Nombre";
-            this.txtNombre.Visible = false;
+            this.txtNombre.Tag = "nombre";
             // 
             // txtPkid
             // 
@@ -94,7 +93,7 @@ namespace CapaVistaMVentasCC
             this.txtPkid.Name = "txtPkid";
             this.txtPkid.Size = new System.Drawing.Size(157, 26);
             this.txtPkid.TabIndex = 116;
-            this.txtPkid.Tag = "Pkid";
+            this.txtPkid.Tag = "idLinea";
             // 
             // cbxIdMarca
             // 
@@ -104,6 +103,7 @@ namespace CapaVistaMVentasCC
             this.cbxIdMarca.Name = "cbxIdMarca";
             this.cbxIdMarca.Size = new System.Drawing.Size(157, 28);
             this.cbxIdMarca.TabIndex = 115;
+            this.cbxIdMarca.SelectedIndexChanged += new System.EventHandler(this.cbxTipoinventario_SelectedIndexChanged);
             // 
             // rbnHabilitado
             // 
@@ -117,6 +117,7 @@ namespace CapaVistaMVentasCC
             this.rbnHabilitado.TabStop = true;
             this.rbnHabilitado.Text = "Habilitado";
             this.rbnHabilitado.UseVisualStyleBackColor = false;
+            this.rbnHabilitado.CheckedChanged += new System.EventHandler(this.rbnActivo_CheckedChanged);
             // 
             // rbnInhabilitado
             // 
@@ -130,6 +131,7 @@ namespace CapaVistaMVentasCC
             this.rbnInhabilitado.TabStop = true;
             this.rbnInhabilitado.Text = "Inhabilitado";
             this.rbnInhabilitado.UseVisualStyleBackColor = false;
+            this.rbnInhabilitado.CheckedChanged += new System.EventHandler(this.rbnInactivo_CheckedChanged);
             // 
             // navegador1
             // 
@@ -157,9 +159,9 @@ namespace CapaVistaMVentasCC
             this.labelstockinventario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelstockinventario.Location = new System.Drawing.Point(31, 209);
             this.labelstockinventario.Name = "labelstockinventario";
-            this.labelstockinventario.Size = new System.Drawing.Size(69, 20);
+            this.labelstockinventario.Size = new System.Drawing.Size(96, 20);
             this.labelstockinventario.TabIndex = 113;
-            this.labelstockinventario.Text = "Nombre:";
+            this.labelstockinventario.Text = "Descripción:";
             // 
             // labelInventario
             // 

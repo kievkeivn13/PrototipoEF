@@ -104,6 +104,7 @@ namespace CapaVistaMVentasCC
             this.cbxTipoBodega.Name = "cbxTipoBodega";
             this.cbxTipoBodega.Size = new System.Drawing.Size(157, 28);
             this.cbxTipoBodega.TabIndex = 97;
+            this.cbxTipoBodega.SelectedIndexChanged += new System.EventHandler(this.cbxTipoinventario_SelectedIndexChanged);
             // 
             // rbnHabilitado
             // 
@@ -117,6 +118,7 @@ namespace CapaVistaMVentasCC
             this.rbnHabilitado.TabStop = true;
             this.rbnHabilitado.Text = "Habilitado";
             this.rbnHabilitado.UseVisualStyleBackColor = false;
+            this.rbnHabilitado.CheckedChanged += new System.EventHandler(this.rbnActivo_CheckedChanged);
             // 
             // rbnInhabilitado
             // 
@@ -130,6 +132,7 @@ namespace CapaVistaMVentasCC
             this.rbnInhabilitado.TabStop = true;
             this.rbnInhabilitado.Text = "Inhabilitado";
             this.rbnInhabilitado.UseVisualStyleBackColor = false;
+            this.rbnInhabilitado.CheckedChanged += new System.EventHandler(this.rbnInactivo_CheckedChanged);
             // 
             // navegador1
             // 

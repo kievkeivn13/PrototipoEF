@@ -21,7 +21,7 @@ namespace CapaVistaMVentasCC
             navegador1.funAsignarAliasVista(alias, "cliente", "hotelSanCarlos");
             navegador1.funAsignarSalidadVista(this);
             navegador1.funLlenarComboControl(cbxInventario, "inventario", "Pkid", "nombre", "estatus");
-            navegador1.funLlenarComboControl(cbxLinea, "linea", "Pkid", "nombre", "estatus");
+            navegador1.funLlenarComboControl(cbxLinea, "linea", "idLinea", "nombre", "estatus");
             //inicio de elementos para dar de baja
             navegador1.campoEstado = "Estatus";
             //fin de elementos para dar de baja
@@ -68,6 +68,16 @@ namespace CapaVistaMVentasCC
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void cbxLinea_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            navegador1.funComboTextboxVista(cbxLinea, txtLinea);
+        }
+
+        private void cbxInventario_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            navegador1.funComboTextboxVista(cbxInventario, txtInventario);
         }
     }
 }

@@ -31,12 +31,12 @@ namespace CapaVistaMVentasCC
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmProducto));
             this.txtEstatus = new System.Windows.Forms.TextBox();
-            this.txtCorreo = new System.Windows.Forms.TextBox();
-            this.txtDireccion = new System.Windows.Forms.TextBox();
-            this.txtTelefono = new System.Windows.Forms.TextBox();
-            this.txtNit = new System.Windows.Forms.TextBox();
-            this.txtApellido = new System.Windows.Forms.TextBox();
+            this.txtStockMinimo = new System.Windows.Forms.TextBox();
+            this.txtStockMaximo = new System.Windows.Forms.TextBox();
+            this.txtStock = new System.Windows.Forms.TextBox();
+            this.txtLinea = new System.Windows.Forms.TextBox();
             this.txtNombre = new System.Windows.Forms.TextBox();
+            this.txtInventario = new System.Windows.Forms.TextBox();
             this.txtPkid = new System.Windows.Forms.TextBox();
             this.rbnActivo = new System.Windows.Forms.RadioButton();
             this.rbnInactivo = new System.Windows.Forms.RadioButton();
@@ -51,8 +51,8 @@ namespace CapaVistaMVentasCC
             this.labelapellidocliente = new System.Windows.Forms.Label();
             this.labelnombrecliente = new System.Windows.Forms.Label();
             this.labelidcliente = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtCosto = new System.Windows.Forms.TextBox();
+            this.txtPrecio = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.cbxInventario = new System.Windows.Forms.ComboBox();
@@ -71,59 +71,59 @@ namespace CapaVistaMVentasCC
             this.txtEstatus.Tag = "Estatus";
             this.txtEstatus.Visible = false;
             // 
-            // txtCorreo
+            // txtStockMinimo
             // 
-            this.txtCorreo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtCorreo.Location = new System.Drawing.Point(112, 366);
-            this.txtCorreo.Name = "txtCorreo";
-            this.txtCorreo.Size = new System.Drawing.Size(220, 26);
-            this.txtCorreo.TabIndex = 74;
-            this.txtCorreo.Tag = "Correo";
+            this.txtStockMinimo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtStockMinimo.Location = new System.Drawing.Point(112, 366);
+            this.txtStockMinimo.Name = "txtStockMinimo";
+            this.txtStockMinimo.Size = new System.Drawing.Size(220, 26);
+            this.txtStockMinimo.TabIndex = 74;
+            this.txtStockMinimo.Tag = "StockMinimo";
             // 
-            // txtDireccion
+            // txtStockMaximo
             // 
-            this.txtDireccion.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtDireccion.Location = new System.Drawing.Point(112, 327);
-            this.txtDireccion.Name = "txtDireccion";
-            this.txtDireccion.Size = new System.Drawing.Size(220, 26);
-            this.txtDireccion.TabIndex = 73;
-            this.txtDireccion.Tag = "Direccion";
+            this.txtStockMaximo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtStockMaximo.Location = new System.Drawing.Point(112, 327);
+            this.txtStockMaximo.Name = "txtStockMaximo";
+            this.txtStockMaximo.Size = new System.Drawing.Size(220, 26);
+            this.txtStockMaximo.TabIndex = 73;
+            this.txtStockMaximo.Tag = "StockMaximo";
             // 
-            // txtTelefono
+            // txtStock
             // 
-            this.txtTelefono.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtTelefono.Location = new System.Drawing.Point(112, 288);
-            this.txtTelefono.Name = "txtTelefono";
-            this.txtTelefono.Size = new System.Drawing.Size(220, 26);
-            this.txtTelefono.TabIndex = 72;
-            this.txtTelefono.Tag = "Telefono";
+            this.txtStock.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtStock.Location = new System.Drawing.Point(112, 288);
+            this.txtStock.Name = "txtStock";
+            this.txtStock.Size = new System.Drawing.Size(220, 26);
+            this.txtStock.TabIndex = 72;
+            this.txtStock.Tag = "Stock";
             // 
-            // txtNit
+            // txtLinea
             // 
-            this.txtNit.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNit.Location = new System.Drawing.Point(336, 251);
-            this.txtNit.Name = "txtNit";
-            this.txtNit.Size = new System.Drawing.Size(26, 26);
-            this.txtNit.TabIndex = 71;
-            this.txtNit.Tag = "Nit";
-            // 
-            // txtApellido
-            // 
-            this.txtApellido.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtApellido.Location = new System.Drawing.Point(112, 214);
-            this.txtApellido.Name = "txtApellido";
-            this.txtApellido.Size = new System.Drawing.Size(220, 26);
-            this.txtApellido.TabIndex = 70;
-            this.txtApellido.Tag = "Apellido";
+            this.txtLinea.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtLinea.Location = new System.Drawing.Point(336, 251);
+            this.txtLinea.Name = "txtLinea";
+            this.txtLinea.Size = new System.Drawing.Size(26, 26);
+            this.txtLinea.TabIndex = 71;
+            this.txtLinea.Tag = "Fkidlinea";
             // 
             // txtNombre
             // 
             this.txtNombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNombre.Location = new System.Drawing.Point(336, 177);
+            this.txtNombre.Location = new System.Drawing.Point(112, 214);
             this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(28, 26);
-            this.txtNombre.TabIndex = 75;
+            this.txtNombre.Size = new System.Drawing.Size(220, 26);
+            this.txtNombre.TabIndex = 70;
             this.txtNombre.Tag = "Nombre";
+            // 
+            // txtInventario
+            // 
+            this.txtInventario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtInventario.Location = new System.Drawing.Point(336, 177);
+            this.txtInventario.Name = "txtInventario";
+            this.txtInventario.Size = new System.Drawing.Size(28, 26);
+            this.txtInventario.TabIndex = 75;
+            this.txtInventario.Tag = "fkinventario";
             // 
             // txtPkid
             // 
@@ -275,30 +275,30 @@ namespace CapaVistaMVentasCC
             this.labelidcliente.TabIndex = 63;
             this.labelidcliente.Text = "ID:";
             // 
-            // textBox1
+            // txtCosto
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(112, 407);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(220, 26);
-            this.textBox1.TabIndex = 74;
-            this.textBox1.Tag = "Correo";
+            this.txtCosto.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCosto.Location = new System.Drawing.Point(112, 407);
+            this.txtCosto.Name = "txtCosto";
+            this.txtCosto.Size = new System.Drawing.Size(220, 26);
+            this.txtCosto.TabIndex = 74;
+            this.txtCosto.Tag = "Costo";
             // 
-            // textBox2
+            // txtPrecio
             // 
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(112, 450);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(220, 26);
-            this.textBox2.TabIndex = 74;
-            this.textBox2.Tag = "Correo";
+            this.txtPrecio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPrecio.Location = new System.Drawing.Point(112, 450);
+            this.txtPrecio.Name = "txtPrecio";
+            this.txtPrecio.Size = new System.Drawing.Size(220, 26);
+            this.txtPrecio.TabIndex = 74;
+            this.txtPrecio.Tag = "Precio";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(26, 410);
+            this.label1.Location = new System.Drawing.Point(27, 450);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(57, 20);
             this.label1.TabIndex = 82;
@@ -309,7 +309,7 @@ namespace CapaVistaMVentasCC
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(27, 453);
+            this.label2.Location = new System.Drawing.Point(27, 410);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(55, 20);
             this.label2.TabIndex = 82;
@@ -323,6 +323,7 @@ namespace CapaVistaMVentasCC
             this.cbxInventario.Name = "cbxInventario";
             this.cbxInventario.Size = new System.Drawing.Size(220, 28);
             this.cbxInventario.TabIndex = 98;
+            this.cbxInventario.SelectedIndexChanged += new System.EventHandler(this.cbxInventario_SelectedIndexChanged);
             // 
             // cbxLinea
             // 
@@ -332,6 +333,7 @@ namespace CapaVistaMVentasCC
             this.cbxLinea.Name = "cbxLinea";
             this.cbxLinea.Size = new System.Drawing.Size(220, 28);
             this.cbxLinea.TabIndex = 98;
+            this.cbxLinea.SelectedIndexChanged += new System.EventHandler(this.cbxLinea_SelectedIndexChanged);
             // 
             // frmProducto
             // 
@@ -341,14 +343,14 @@ namespace CapaVistaMVentasCC
             this.Controls.Add(this.cbxLinea);
             this.Controls.Add(this.cbxInventario);
             this.Controls.Add(this.txtEstatus);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.txtCorreo);
-            this.Controls.Add(this.txtDireccion);
-            this.Controls.Add(this.txtTelefono);
-            this.Controls.Add(this.txtNit);
-            this.Controls.Add(this.txtApellido);
+            this.Controls.Add(this.txtPrecio);
+            this.Controls.Add(this.txtCosto);
+            this.Controls.Add(this.txtStockMinimo);
+            this.Controls.Add(this.txtStockMaximo);
+            this.Controls.Add(this.txtStock);
+            this.Controls.Add(this.txtLinea);
             this.Controls.Add(this.txtNombre);
+            this.Controls.Add(this.txtInventario);
             this.Controls.Add(this.txtPkid);
             this.Controls.Add(this.rbnActivo);
             this.Controls.Add(this.rbnInactivo);
@@ -379,12 +381,12 @@ namespace CapaVistaMVentasCC
         #endregion
 
         private System.Windows.Forms.TextBox txtEstatus;
-        private System.Windows.Forms.TextBox txtCorreo;
-        private System.Windows.Forms.TextBox txtDireccion;
-        private System.Windows.Forms.TextBox txtTelefono;
-        private System.Windows.Forms.TextBox txtNit;
-        private System.Windows.Forms.TextBox txtApellido;
+        private System.Windows.Forms.TextBox txtStockMinimo;
+        private System.Windows.Forms.TextBox txtStockMaximo;
+        private System.Windows.Forms.TextBox txtStock;
+        private System.Windows.Forms.TextBox txtLinea;
         private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.TextBox txtInventario;
         private System.Windows.Forms.TextBox txtPkid;
         private System.Windows.Forms.RadioButton rbnActivo;
         private System.Windows.Forms.RadioButton rbnInactivo;
@@ -399,8 +401,8 @@ namespace CapaVistaMVentasCC
         private System.Windows.Forms.Label labelapellidocliente;
         private System.Windows.Forms.Label labelnombrecliente;
         private System.Windows.Forms.Label labelidcliente;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtCosto;
+        private System.Windows.Forms.TextBox txtPrecio;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox cbxInventario;

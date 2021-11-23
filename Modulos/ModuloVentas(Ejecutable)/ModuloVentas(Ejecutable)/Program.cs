@@ -17,7 +17,7 @@ namespace ModuloVentas_Ejecutable_
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new MDIVentas());
+			Application.Run(new MDIProyectoEF());
 		}
 	}
 }
