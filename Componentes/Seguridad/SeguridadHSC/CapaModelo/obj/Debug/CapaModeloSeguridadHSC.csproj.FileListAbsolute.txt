@@ -1,0 +1,6 @@
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.pdb

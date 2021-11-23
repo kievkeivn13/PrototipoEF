@@ -1,0 +1,24 @@
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.pdb
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Dapper.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\System.Data.Odbc.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.AssemblyReference.cache
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfoInputs.cache
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfo.cs
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CoreCompileInputs.cache
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CopyComplete
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.dll
+G:\Git\HSC INDIVIDUAL\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.pdb
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Bitacora.pdb
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\Dapper.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\bin\Debug\net472\System.Data.Odbc.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.AssemblyReference.cache
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfoInputs.cache
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.AssemblyInfo.cs
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CoreCompileInputs.cache
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.csproj.CopyComplete
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.dll
+G:\Git\PrototipoEF\Componentes\Seguridad\CodigoBitacora\BitacoraRegistrarLogin\obj\Debug\net472\Bitacora.pdb

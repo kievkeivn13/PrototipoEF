@@ -1,0 +1,168 @@
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.AssemblyReference.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoCliente.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoFraccionamiento.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoInventario.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoMora.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoDocumento.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoInventario.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.MDIVentes.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.GenerateResource.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.CoreCompileInputs.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.Properties.Resources.resources
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.CopyComplete
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoCliente.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoFraccionamiento.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoInventario.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoMora.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoDocumento.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoInventario.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\DLLnav.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaCI.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorCI.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloCI.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\stdole.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\DLLnav.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaCI.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorCI.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloCI.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\obj\Debug\CapaVistaMVentasCC.MDIVentas.resources
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\MySql.Data.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\Google.Protobuf.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\Zstandard.Net.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\System.Memory.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\System.Buffers.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\Bitacora.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaVistaMVentasCC\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControladorSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\Bitacora.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\VistaBitacoraLogin.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\MySql.Data.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControlador.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaCI.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\Google.Protobuf.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\Zstandard.Net.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModelo.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControladorCI.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\System.Memory.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\System.Buffers.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModeloCI.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\stdole.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaSeguridadHSC.dll.config
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\DLLnav.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControladorSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControlador.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaVistaCI.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModelo.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControladorCI.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModeloCI.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoCliente.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoFraccionamiento.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoInventario.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoMora.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoComision.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoDocumento.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoInventario.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.MDIVentas.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.Properties.Resources.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.csproj.GenerateResource.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.csproj.CopyComplete
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmComisiones.resources
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControladorMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaControladorMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\Dapper.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\Bitacora.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Vista\bin\Debug\VistaBitacoraLogin.pdb

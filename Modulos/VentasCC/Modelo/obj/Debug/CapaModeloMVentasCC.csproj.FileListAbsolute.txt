@@ -1,0 +1,18 @@
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaModeloMVentasCC\bin\Debug\CapaModeloMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaModeloMVentasCC\bin\Debug\CapaModeloMVentasCC.pdb
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.csproj.AssemblyReference.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.csproj.CoreCompileInputs.cache
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.dll
+E:\Users\Kevin.000\Documents\Kevin\Ing. Sistemas\Octavo Semestre\Análisis de Sistemas II\Mudulo Ventas\40 % de los Mantenimientos\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaModeloMVentasCC\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaModeloMVentasCC\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\Ventas y cc HSC\ModuloVentas\CapaModeloMVentasCC\obj\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Modelo\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Modelo\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Modelo\obj\Debug\CapaModeloMVentasCC.csproj.AssemblyReference.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Modelo\obj\Debug\CapaModeloMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Modelo\obj\Debug\CapaModeloMVentasCC.dll
+C:\Users\kievk\OneDrive\Desktop\ProyectoHSC - copia\Modulos\VentasCC\Modelo\obj\Debug\CapaModeloMVentasCC.pdb
