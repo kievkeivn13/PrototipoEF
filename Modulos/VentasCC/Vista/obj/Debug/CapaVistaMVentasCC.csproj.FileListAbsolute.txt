@@ -241,6 +241,6 @@ G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.csproj.Co
 G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoBodega.resources
 G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoTipoBodega.resources
 G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.MDIProyectoEF.resources
-G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmProducto.resources
 G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoLinea.resources
 G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoMarca.resources
+G:\Git\PrototipoEF\Modulos\VentasCC\Vista\obj\Debug\CapaVistaMVentasCC.frmMantenimientoProducto.resources

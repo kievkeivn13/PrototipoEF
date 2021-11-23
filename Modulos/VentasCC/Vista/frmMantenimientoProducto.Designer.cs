@@ -1,7 +1,7 @@
 ﻿
 namespace CapaVistaMVentasCC
 {
-    partial class frmProducto
+    partial class frmMantenimientoProducto
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace CapaVistaMVentasCC
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmProducto));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMantenimientoProducto));
             this.txtEstatus = new System.Windows.Forms.TextBox();
             this.txtStockMinimo = new System.Windows.Forms.TextBox();
             this.txtStockMaximo = new System.Windows.Forms.TextBox();
@@ -146,6 +146,7 @@ namespace CapaVistaMVentasCC
             this.rbnActivo.TabStop = true;
             this.rbnActivo.Text = "Habilitado";
             this.rbnActivo.UseVisualStyleBackColor = false;
+            this.rbnActivo.CheckedChanged += new System.EventHandler(this.rbnActivo_CheckedChanged);
             // 
             // rbnInactivo
             // 
@@ -159,6 +160,7 @@ namespace CapaVistaMVentasCC
             this.rbnInactivo.TabStop = true;
             this.rbnInactivo.Text = "Inhabilitado";
             this.rbnInactivo.UseVisualStyleBackColor = false;
+            this.rbnInactivo.CheckedChanged += new System.EventHandler(this.rbnInactivo_CheckedChanged);
             // 
             // navegador1
             // 
@@ -335,10 +337,11 @@ namespace CapaVistaMVentasCC
             this.cbxLinea.TabIndex = 98;
             this.cbxLinea.SelectedIndexChanged += new System.EventHandler(this.cbxLinea_SelectedIndexChanged);
             // 
-            // frmProducto
+            // frmMantenimientoProducto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::CapaVistaMVentasCC.Properties.Resources._90_Simple_Backgrounds_Edit_and_Download_Visual_Learning_Center;
             this.ClientSize = new System.Drawing.Size(1191, 596);
             this.Controls.Add(this.cbxLinea);
             this.Controls.Add(this.cbxInventario);
@@ -369,7 +372,7 @@ namespace CapaVistaMVentasCC
             this.Controls.Add(this.labelidcliente);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
-            this.Name = "frmProducto";
+            this.Name = "frmMantenimientoProducto";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmProducto";
             ((System.ComponentModel.ISupportInitialize)(this.dtgClientes)).EndInit();

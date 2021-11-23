@@ -118,5 +118,12 @@ namespace CapaVistaMVentasCC
             form3.MdiParent = this;
             form3.Show();
         }
+
+        private void matenimientoProductoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmMantenimientoProducto form3 = new frmMantenimientoProducto();
+            form3.MdiParent = this;
+            form3.Show();
+        }
     }
 }
